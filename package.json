@@ -1,0 +1,23 @@
+{
+  "name": "water-mark",
+  "version": "1.0.0",
+  "description": "水印",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnlwl/water-mark.git"
+  },
+  "keywords": [
+    "水印",
+    "React水印"
+  ],
+  "author": "bnlwl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bnlwl/water-mark/issues"
+  },
+  "homepage": "https://github.com/bnlwl/water-mark#readme"
+}
